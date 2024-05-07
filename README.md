@@ -69,7 +69,7 @@ Requirements:
 - [pm2](https://pm2.keymetrics.io/) - For running Uptime Kuma in the background
 
 ```bash
-git clone https://github.com/louislam/uptime-kuma.git
+git clone https://github.com/hadiqaiser/uptime-kuma-dnt.git
 cd uptime-kuma
 npm run setup
 
@@ -113,12 +113,6 @@ https://github.com/louislam/uptime-kuma/wiki/%F0%9F%86%99-How-to-Update
 I will assign requests/issues to the next milestone.
 
 https://github.com/louislam/uptime-kuma/milestones
-
-## ❤️ Sponsors
-
-Thank you so much! (GitHub Sponsors will be updated manually. OpenCollective sponsors will be updated automatically, the list will be cached by GitHub though. It may need some time to be updated)
-
-<img src="https://uptime.kuma.pet/sponsors?v=6" alt />
 
 ## 🖼 More Screenshots
 
